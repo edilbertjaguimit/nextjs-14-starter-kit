@@ -1,6 +1,7 @@
 # 🧪 Next.js Starter Kit
 
-✨ A sleek, ready-to-use **Next.js 14** template packed with **React 18**, modern libraries, and best practices to kickstart your web app development.
+✨ A sleek, ready-to-use **Next.js 14** template packed with **React 18**, modern libraries, and best practices to kickstart your web app development.  
+_📌 Note: This is my opinion as a beginner, not an expert in Next.js. I've created this setup based on my learning experience!_
 
 ---
 
@@ -67,7 +68,7 @@
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/edilbertjaguimit/sigestudy-ai-frontend.git
+    git clone https://github.com/edilbertjaguimit/nextjs-14-starter-kit.git
     ```
 2. Install dependencies:
     ```bash
