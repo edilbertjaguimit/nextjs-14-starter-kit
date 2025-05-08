@@ -79,5 +79,5 @@ _📌 Note: This is just my opinion, not an expert in Next.js. I've created this
     npm run dev
     ```
 
-🌟 Happy coding, and build something amazing!
+🌟 Happy coding, and build something amazing!  
 _🙋‍♂️ Again, this is just my take, not an expert – feel free to adapt it as you see fit!_
