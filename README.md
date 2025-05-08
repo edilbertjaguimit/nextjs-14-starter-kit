@@ -1,7 +1,7 @@
 # 🧪 Next.js Starter Kit
 
 ✨ A sleek, ready-to-use **Next.js 14** template packed with **React 18**, modern libraries, and best practices to kickstart your web app development.  
-_📌 Note: This is just my opinion, not an expert in Next.js. I've created this setup based on my learning experience!_
+_📌 Note: This is just my opinion, not an expert. I've created this setup based on my learning experience!_
 
 ---
 
